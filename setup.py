@@ -11,7 +11,7 @@ setuptools.setup(
     description='Tools for medical statistics.',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/Chitanda-Satou/avocadopy',
+    url='https://github.com/b-niu/avocadopy',
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
