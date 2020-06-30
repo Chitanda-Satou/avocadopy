@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="avocadopy", 
-    version="0.0.1",
+    name="avocadopy",
+    version="0.0.2",
     author='B Niu',
     author_email='shinji006@126.com',
     description='Tools for medical statistics.',

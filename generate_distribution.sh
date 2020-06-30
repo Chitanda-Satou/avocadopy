@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# clean folder
+rm -rfv dist/
+
 # generate distribution archives as:
 # https://packaging.python.org/tutorials/packaging-projects/
 
